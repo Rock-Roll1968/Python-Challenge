@@ -7,7 +7,7 @@
 ## Description
 Python Data analysis for business and election results 
 
-![app_image](Financial_Analysis)
+![app_image]("financial_analysis.png")
 
 ## Table of Contents
 - [Installation](#installation)
